@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""diffusion_Example.ipynb
-
-Original file is located at
-https://colab.research.google.com/drive/15OUuRbUlxe-Qb2kMrNMGU2zGindRgHox
-
+"""diffusion-Sinusoid.py
 **Author:** Dr. Shahriar Hossain <br>
 **YT Channel:** https://www.youtube.com/@C4A <br>
 **Web:** https://computing4all.com/ <br>
